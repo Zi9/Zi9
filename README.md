@@ -3,9 +3,9 @@
 I'm Zig. I write random code as a hobby.
 
 I mostly work with:
-* Python
 * C#
 * C
+* Python
 
 I'm interested in:
 * Reverse engineering
