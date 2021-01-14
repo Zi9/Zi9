@@ -8,7 +8,7 @@ I mostly work with:
 * Python
 
 I'm interested in:
-* Reverse engineering
-* File formats and structures
-* Game modifications
-* Terminal user interfaces
+* :arrows_counterclockwise: Reverse engineering
+* :page_facing_up: File formats and structures
+* :joystick: Game modifications
+* :keyboard: Terminal user interfaces
