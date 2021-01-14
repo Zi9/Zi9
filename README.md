@@ -2,7 +2,7 @@
 
 I'm Zig. I write random code as a hobby.
 
-I know:
+I mostly work with:
 * Python
 * C#
 * C
