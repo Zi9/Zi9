@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-I'm Zig. I write random code as a hobby.
+I'm Zi. I write random code as a hobby.
 
 I mostly work with:
 * C#
 * C
 * Python
+
+Currently working on:
+* CML - A custom mod loader for CarX Drift Racing Online
 
 I'm interested in:
 * :arrows_counterclockwise: Reverse engineering
