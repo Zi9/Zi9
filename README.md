@@ -15,3 +15,5 @@ I'm interested in:
 * :page_facing_up: File formats and structures
 * :joystick: Game modifications
 * :keyboard: Terminal user interfaces
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7JHJ1T)
