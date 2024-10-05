@@ -7,7 +7,9 @@ I mostly work with:
 * C
 * Python
 
-Currently working on:
+Currently working on: Random ideas/projects
+
+Past projects:
 * ZML - A custom modification platform for CarX Drift Racing Online
 
 I'm interested in:
