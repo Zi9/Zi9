@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-I'm Zi. I write random code as a hobby.
+I'm Zi. I used to work on random projects as a hobby, however with the mainstreaming of agentic coding, I've lost interest in that hobby. I may still code from time to time.
 
 I mostly work with:
 * C#
 * C
 * Python
 
-Currently working on: Random ideas/projects
-
 Past projects:
 * ZML - A custom modification platform for CarX Drift Racing Online
+* Deformerz - A reverse engineering / experimentation testbed for Terep2
 
 I'm interested in:
 * :arrows_counterclockwise: Reverse engineering
